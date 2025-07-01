@@ -287,9 +287,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile]
+- **Project Maintainer**: [Krishna Kamal]
+- **Email**: [ht785618@gmail.com]
+
 
 ## 🙏 Acknowledgments
 
